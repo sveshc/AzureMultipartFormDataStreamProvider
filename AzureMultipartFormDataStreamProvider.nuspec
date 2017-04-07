@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>recruitStack.AzureMultipartFormDataStreamProvider</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Sarvesh Chinnappa</authors>
+    <owners>Sarvesh Chinnappa</owners>
+    <licenseUrl>https://github.com/sveshc/AzureMultipartFormDataStreamProvider/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/sveshc/AzureMultipartFormDataStreamProvider</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Form data stream provider to upload files in asp.net mvc to blob storage</description>
+    <releaseNotes>Initial Release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>azure formdatastreamprovider blob storage</tags>
+  </metadata>
+</package>
