@@ -1,7 +1,7 @@
 # AzureMultipartFormDataStreamProvider
 Store uploaded files to azure blob storage
 
-Usage
+Example
 
         [HttpPost]
         [Route("api/media")]
